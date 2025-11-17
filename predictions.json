@@ -1,0 +1,49 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "location": "Hyderabad",
+      "rainfall_mm": 40,
+      "soil_moisture": 20,
+      "elevation": 500,
+      "prediction": 0.10,
+      "action": "Low risk – safe"
+    },
+    {
+      "id": 2,
+      "location": "Vijayawada",
+      "rainfall_mm": 55,
+      "soil_moisture": 35,
+      "elevation": 30,
+      "prediction": 0.20,
+      "action": "Low risk – safe"
+    },
+    {
+      "id": 3,
+      "location": "Chennai",
+      "rainfall_mm": 140,
+      "soil_moisture": 60,
+      "elevation": 6,
+      "prediction": 0.85,
+      "action": "High risk – evacuation recommended"
+    },
+    {
+      "id": 4,
+      "location": "Mumbai",
+      "rainfall_mm": 180,
+      "soil_moisture": 70,
+      "elevation": 14,
+      "prediction": 0.90,
+      "action": "High risk – evacuation recommended"
+    },
+    {
+      "id": 5,
+      "location": "Bangalore",
+      "rainfall_mm": 30,
+      "soil_moisture": 25,
+      "elevation": 900,
+      "prediction": 0.15,
+      "action": "Low risk – safe"
+    }
+  ]
+}
