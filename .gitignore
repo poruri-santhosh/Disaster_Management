@@ -1,0 +1,25 @@
+# Jupyter Notebook specific files
+disaster_watch_ai.ipynb
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Environment directories
+venv/
+env/
+.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Temporary or unrelated notebooks
+Untitled.ipynb
+Untitled1.ipynb
+# Add any other specific 'UntitledX.ipynb' files you see that are not your main project.
+
+# If you later decide to ignore the generated HTML and only want to push the notebook:
+# disaster_watch_ai_dashboard.html

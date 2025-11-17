@@ -1,0 +1,6 @@
+Latitude,Longitude,Water_Level (cm),Rainfall (mm),NDWI,Temperature (°C),Humidity (%),Flood_Risk
+17.3850,78.4867,130,95,0.7,28.5,85,High
+16.5062,80.6480,85,40,0.3,31.0,60,Low
+15.3173,75.7139,120,110,0.6,29.2,78,Medium
+18.1124,79.0193,140,130,0.8,27.8,88,High
+19.7515,75.7139,70,20,0.2,34.5,45,No Risk
